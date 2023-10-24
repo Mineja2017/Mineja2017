@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jaime García 👋
+Estudiante de la URJC
+Grado Ingenieria de la Ciberseguridad 🧑‍💻
 
 <!--
 **Mineja2017/Mineja2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
